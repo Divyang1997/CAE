@@ -1,0 +1,39 @@
+No.     Options               Value
+-------------------------------------------
+1       Mass                  1.67e-27
+2       Charge                1.60e-19
+        
+3       Initial Position
+        x                     0
+        y                     0
+        z                     0
+        
+4       Initial Velocity
+        Vx                    1
+        Vy                    0
+        Vz                    1
+        
+5       Constant B field      1
+        Bx                    0
+        By                    0
+        Bz                    1
+        
+6       Constant E field      1
+        Ex                    0
+        Ey                    0
+        Ez                    0
+        
+7       Simulation Time       1e-7
+        Points                1001
+        
+8       Tokamak simulation    0
+        Inner radius          0.275
+        Outer radius          0.725
+        Height                0.3
+        
+9       Add constant B field  0
+        Bx                    0
+        By                    0
+        Bz                    0
+
+10      Phase velocity        0
